@@ -1,6 +1,8 @@
 import React from "react";
 
 const App2 = () => {
+  console.log("Olá, Mundo!");
+
   return <div>App2</div>;
 };
 
@@ -46,3 +48,39 @@ export default App2;
 // Nomes compostos são separados por -
 
 // Tag vazia em React se chama Fragment ou Fragmento
+
+// Componentes recebem "props"
+
+{
+  /* {items === 5 ? (
+          <>
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+          </>
+        ) : (
+          <>
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+            <SingleItem />
+          </>
+        )} */
+}
+
+// Array(items)
+//           .fill()
+//           .map((currentValue, index) => (
+//             <SingleItem key={`${title}-${index}`} />
+//           ))
+
+// Spread operator
+// ...
