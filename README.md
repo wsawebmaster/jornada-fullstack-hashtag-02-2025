@@ -44,6 +44,12 @@ Para construir e rodar a aplicação usando Docker, siga estes passos:
 
    ```bash
    docker-compose exec web bash
+
+   docker-compose exec frontend sh
+      docker-compose exec frontend node ./api/api.js
+   docker-compose exec backend sh
+
+   alias node='docker-compose exec frontend node'
    ```
 
 A aplicação estará acessível em `http://localhost:3000`.
