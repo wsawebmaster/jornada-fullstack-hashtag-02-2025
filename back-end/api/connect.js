@@ -3,11 +3,11 @@
 // Fullfilled
 import { MongoClient } from "mongodb";
 
-const URI =
-  "mongodb+srv://fullstackjornada:qojI71xVU2aV8UKC@cluster0.v1qra.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-
 // const URI =
-//   "mongodb+srv://wsawebmaster:teste123@cluster0.ga6fi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+//   "mongodb+srv://fullstackjornada:qojI71xVU2aV8UKC@cluster0.v1qra.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+
+const URI =
+  "mongodb+srv://wsawebmaster:teste123@cluster0.ga6fi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const client = new MongoClient(URI);
 

@@ -1,0 +1,162 @@
+[
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e022774b00531d558bc19e12a24",
+      "name": "Última Saudade - Ao Vivo",
+      "duration": "02:30",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b7f"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02af41105c5cd91b28f2cf219d",
+      "name": "Xonei",
+      "duration": "02:34",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b80"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02656f8291d741ad247ef330fe",
+      "name": "Paredões",
+      "duration": "02:55",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b81"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e022774b00531d558bc19e12a24",
+      "name": "Amigo Da Minha Saudade - Ao Vivo",
+      "duration": "02:30",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b82"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e022774b00531d558bc19e12a24",
+      "name": "Seja Ex - Ao Vivo",
+      "duration": "03:12",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b83"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e0299c540c0f78793fcea84a920",
+      "name": "De Trás Pra Frente - Ao Vivo",
+      "duration": "02:43",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b84"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e0299c540c0f78793fcea84a920",
+      "name": "Aquela Pessoa - Ao Vivo",
+      "duration": "02:46",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b85"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e0299c540c0f78793fcea84a920",
+      "name": "Meu Amor - Ao Vivo",
+      "duration": "02:54",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b86"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e025bb6668a856035550a66fc31",
+      "name": "Como É Que A Gente Fica - Ao Vivo",
+      "duration": "02:43",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b87"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e022774b00531d558bc19e12a24",
+      "name": "Romântico - Ao Vivo",
+      "duration": "03:03",
+      "artist": "Henrique & Juliano",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+      "id": "67b26fd52bf468f77b161b88"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02d8bfb4567b1b5e5bc4da915b",
+      "name": "Oh Garota Eu Quero Você Só Pra Mim",
+      "duration": "02:46",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b89"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02f412f43fad4c3ffab163287c",
+      "name": "Barbie",
+      "duration": "03:12",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b8a"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02905f574e927e59ada3fc2c97",
+      "name": "Do Job",
+      "duration": "03:13",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b8b"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02dc16c0b3939b95e09076ec5e",
+      "name": "A Danada Me Ligando",
+      "duration": "04:43",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b8c"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e0299ca4be43858f41a3bad9728",
+      "name": "2025",
+      "duration": "02:52",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b8d"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02a8e9382ce68ad5d8758bd998",
+      "name": "E Aí Como Que Tá ?",
+      "duration": "02:14",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b8e"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e022d1affc39c1329a4e3138424",
+      "name": "THE BOX MEDLEY FUNK 2",
+      "duration": "04:26",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b8f"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02320f4a08913b939a8637c301",
+      "name": "Boy Besta",
+      "duration": "07:04",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b90"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02700a3fcafbd8498c78f16cb0",
+      "name": "Vida de Artista",
+      "duration": "03:16",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b91"
+    },
+    {
+      "image": "https://i.scdn.co/image/ab67616d00001e02462239ad51bf390607c6854f",
+      "name": "Mó Fita",
+      "duration": "04:16",
+      "artist": "MC Tuto",
+      "audio": "https://jornada-fullstack.s3.us-east-2.amazonaws.com/barbie.mp3",
+      "id": "67b26fd52bf468f77b161b92"
+    }
+  ]

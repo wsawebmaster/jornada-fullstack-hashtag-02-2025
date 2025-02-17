@@ -2,8 +2,8 @@
 import axios from "axios";
 
 // const { NODE_ENV } = process.env;
-// const URL = "http://localhost:3001/api";
-const URL = "https://jornada-fullstack-hashtag-02-2025.onrender.com/api";
+const URL = "http://localhost:3001/api";
+// const URL = "https://jornada-fullstack-hashtag-02-2025.onrender.com/api";
 
 const responseArtists = await axios.get(`${URL}/artists`);
 const responseSongs = await axios.get(`${URL}/songs`);
